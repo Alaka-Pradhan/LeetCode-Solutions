@@ -142,6 +142,7 @@ LeetCode questions submission solutions.
 | ------- |
 | [0015-3sum](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0018-4sum) |
+| [0046-permutations](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0047-permutations-ii) |
 | [0134-gas-station](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0134-gas-station) |
 | [0169-majority-element](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0169-majority-element) |
@@ -248,5 +249,6 @@ LeetCode questions submission solutions.
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0047-permutations-ii) |
 <!---LeetCode Topics End-->
