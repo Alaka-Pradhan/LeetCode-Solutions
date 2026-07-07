@@ -46,6 +46,7 @@ LeetCode questions submission solutions.
 ## Binary Search Tree
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0099-recover-binary-search-tree](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0099-recover-binary-search-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0222-count-complete-tree-nodes) |
@@ -158,6 +159,7 @@ LeetCode questions submission solutions.
 | [0015-3sum](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0018-4sum) |
+| [0035-search-insert-position](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0048-rotate-image) |
