@@ -294,4 +294,8 @@ LeetCode questions submission solutions.
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0062-unique-paths) |
+## Database
+|  |
+| ------- |
+| [0627-swap-sex-of-employees](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0627-swap-sex-of-employees) |
 <!---LeetCode Topics End-->
