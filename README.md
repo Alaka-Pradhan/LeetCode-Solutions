@@ -125,6 +125,7 @@ LeetCode questions submission solutions.
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
@@ -218,6 +219,7 @@ LeetCode questions submission solutions.
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0006-zigzag-conversion) |
+| [0012-integer-to-roman](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
@@ -282,6 +284,7 @@ LeetCode questions submission solutions.
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0043-multiply-strings) |
