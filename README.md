@@ -169,6 +169,7 @@ LeetCode questions submission solutions.
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0006-zigzag-conversion) |
+| [0551-student-attendance-record-i](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0551-student-attendance-record-i) |
 ## Matrix
 |  |
 | ------- |
