@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0099-recover-binary-search-tree](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0099-recover-binary-search-tree) |
 | [0207-course-schedule](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0210-course-schedule-ii) |
+| [0785-is-graph-bipartite](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0785-is-graph-bipartite) |
 | [0814-binary-tree-pruning](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0814-binary-tree-pruning) |
 | [0965-univalued-binary-tree](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0965-univalued-binary-tree) |
 ## Binary Search Tree
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0210-course-schedule-ii) |
+| [0785-is-graph-bipartite](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0785-is-graph-bipartite) |
 | [0965-univalued-binary-tree](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0965-univalued-binary-tree) |
 | [1609-even-odd-tree](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/1609-even-odd-tree) |
 ## Graph Theory
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0210-course-schedule-ii) |
+| [0785-is-graph-bipartite](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0785-is-graph-bipartite) |
 ## Topological Sort
 |  |
 | ------- |
@@ -78,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
+## Union-Find
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
