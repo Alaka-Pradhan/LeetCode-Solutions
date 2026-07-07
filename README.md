@@ -124,6 +124,7 @@ LeetCode questions submission solutions.
 | [0160-intersection-of-two-linked-lists](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0817-linked-list-components](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0817-linked-list-components) |
+| [2363-merge-similar-items](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/2363-merge-similar-items) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 ## Two Pointers
 |  |
@@ -157,6 +158,7 @@ LeetCode questions submission solutions.
 | [0896-monotonic-array](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0896-monotonic-array) |
 | [1260-shift-2d-grid](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/2022-convert-1d-array-into-2d-array) |
+| [2363-merge-similar-items](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/2363-merge-similar-items) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [3151-special-array-i](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/3151-special-array-i) |
 ## Sorting
@@ -167,6 +169,7 @@ LeetCode questions submission solutions.
 | [0018-4sum](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0047-permutations-ii) |
 | [0169-majority-element](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0169-majority-element) |
+| [2363-merge-similar-items](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/2363-merge-similar-items) |
 ## Recursion
 |  |
 | ------- |
@@ -262,4 +265,8 @@ LeetCode questions submission solutions.
 | ------- |
 | [0046-permutations](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0047-permutations-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [2363-merge-similar-items](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/2363-merge-similar-items) |
 <!---LeetCode Topics End-->
