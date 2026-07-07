@@ -209,5 +209,10 @@ LeetCode questions submission solutions.
 | ------- |
 | [0069-sqrtx](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0189-rotate-array) |
+| [0836-rectangle-overlap](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0836-rectangle-overlap) |
 | [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/3178-find-the-child-who-has-the-ball-after-k-seconds) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
