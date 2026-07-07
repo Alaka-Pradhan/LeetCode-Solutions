@@ -140,6 +140,7 @@ LeetCode questions submission solutions.
 | [0016-3sum-closest](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
@@ -214,6 +215,7 @@ LeetCode questions submission solutions.
 | [0006-zigzag-conversion](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0006-zigzag-conversion) |
 | [0014-longest-common-prefix](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0067-add-binary) |
@@ -346,4 +348,8 @@ LeetCode questions submission solutions.
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0148-sort-list) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
