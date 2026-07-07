@@ -202,6 +202,7 @@ LeetCode questions submission solutions.
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0203-remove-linked-list-elements) |
@@ -219,6 +220,7 @@ LeetCode questions submission solutions.
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0006-zigzag-conversion) |
+| [0010-regular-expression-matching](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
@@ -313,6 +315,7 @@ LeetCode questions submission solutions.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0062-unique-paths](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
