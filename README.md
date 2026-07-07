@@ -154,6 +154,7 @@ LeetCode questions submission solutions.
 | [0046-permutations](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0048-rotate-image) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0169-majority-element) |
@@ -268,6 +269,7 @@ LeetCode questions submission solutions.
 | ------- |
 | [0062-unique-paths](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Memoization
 |  |
 | ------- |
