@@ -95,6 +95,7 @@ LeetCode questions submission solutions.
 | [0547-number-of-provinces](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0785-is-graph-bipartite) |
 | [0841-keys-and-rooms](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0841-keys-and-rooms) |
+| [0997-find-the-town-judge](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0997-find-the-town-judge) |
 | [1791-find-center-of-star-graph](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Topological Sort
@@ -136,6 +137,7 @@ LeetCode questions submission solutions.
 | [0160-intersection-of-two-linked-lists](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0817-linked-list-components](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0817-linked-list-components) |
+| [0997-find-the-town-judge](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0997-find-the-town-judge) |
 | [2363-merge-similar-items](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/2363-merge-similar-items) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 ## Two Pointers
@@ -187,6 +189,7 @@ LeetCode questions submission solutions.
 | [0189-rotate-array](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0817-linked-list-components](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0817-linked-list-components) |
 | [0896-monotonic-array](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0896-monotonic-array) |
+| [0997-find-the-town-judge](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0997-find-the-town-judge) |
 | [1260-shift-2d-grid](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2363-merge-similar-items](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/2363-merge-similar-items) |
