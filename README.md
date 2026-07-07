@@ -92,6 +92,7 @@ LeetCode questions submission solutions.
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0203-remove-linked-list-elements) |
@@ -107,6 +108,7 @@ LeetCode questions submission solutions.
 ## Hash Table
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0817-linked-list-components](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0817-linked-list-components) |
@@ -115,6 +117,7 @@ LeetCode questions submission solutions.
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0015-3sum) |
+| [0141-linked-list-cycle](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
