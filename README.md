@@ -245,6 +245,7 @@ LeetCode questions submission solutions.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0222-count-complete-tree-nodes) |
@@ -272,6 +273,7 @@ LeetCode questions submission solutions.
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0050-powx-n) |
