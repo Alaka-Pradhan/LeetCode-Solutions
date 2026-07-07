@@ -175,6 +175,7 @@ LeetCode questions submission solutions.
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0021-merge-two-sorted-lists) |
+| [0050-powx-n](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
@@ -235,6 +236,7 @@ LeetCode questions submission solutions.
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0043-multiply-strings) |
+| [0050-powx-n](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0189-rotate-array) |
