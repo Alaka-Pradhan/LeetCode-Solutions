@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0814-binary-tree-pruning](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0814-binary-tree-pruning) |
 | [0841-keys-and-rooms](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0841-keys-and-rooms) |
 | [0965-univalued-binary-tree](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0965-univalued-binary-tree) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-keys-and-rooms](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0841-keys-and-rooms) |
 | [0965-univalued-binary-tree](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0965-univalued-binary-tree) |
 | [1609-even-odd-tree](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/1609-even-odd-tree) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
 | ------- |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0210-course-schedule-ii) |
 | [0785-is-graph-bipartite](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0785-is-graph-bipartite) |
 | [0841-keys-and-rooms](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0841-keys-and-rooms) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Topological Sort
 |  |
 | ------- |
@@ -91,4 +94,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0785-is-graph-bipartite) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
