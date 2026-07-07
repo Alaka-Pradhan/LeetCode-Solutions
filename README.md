@@ -183,6 +183,7 @@ LeetCode questions submission solutions.
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0006-zigzag-conversion) |
+| [0043-multiply-strings](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0043-multiply-strings) |
 | [0551-student-attendance-record-i](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0551-student-attendance-record-i) |
 ## Matrix
 |  |
@@ -192,6 +193,7 @@ LeetCode questions submission solutions.
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0043-multiply-strings) |
 | [1260-shift-2d-grid](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/2022-convert-1d-array-into-2d-array) |
 | [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/3178-find-the-child-who-has-the-ball-after-k-seconds) |
@@ -227,6 +229,7 @@ LeetCode questions submission solutions.
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0043-multiply-strings) |
 | [0069-sqrtx](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0189-rotate-array) |
