@@ -46,6 +46,7 @@ LeetCode questions submission solutions.
 ## Binary Search Tree
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0099-recover-binary-search-tree](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0099-recover-binary-search-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
@@ -199,4 +200,8 @@ LeetCode questions submission solutions.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0169-majority-element) |
+## Math
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
