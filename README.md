@@ -136,6 +136,7 @@ LeetCode questions submission solutions.
 | [0016-3sum-closest](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0125-valid-palindrome](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
@@ -198,6 +199,7 @@ LeetCode questions submission solutions.
 | [0006-zigzag-conversion](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0006-zigzag-conversion) |
 | [0020-valid-parentheses](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0043-multiply-strings) |
+| [0125-valid-palindrome](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0551-student-attendance-record-i](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0551-student-attendance-record-i) |
 ## Matrix
 |  |
