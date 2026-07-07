@@ -100,6 +100,7 @@ LeetCode questions submission solutions.
 | [0328-odd-even-linked-list](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0328-odd-even-linked-list) |
 | [0707-design-linked-list](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0707-design-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0725-split-linked-list-in-parts) |
+| [0817-linked-list-components](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0817-linked-list-components) |
 | [0876-middle-of-the-linked-list](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Hash Table
@@ -107,6 +108,7 @@ LeetCode questions submission solutions.
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0817-linked-list-components](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0817-linked-list-components) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 ## Two Pointers
 |  |
@@ -121,6 +123,7 @@ LeetCode questions submission solutions.
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0015-3sum) |
+| [0817-linked-list-components](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0817-linked-list-components) |
 | [0896-monotonic-array](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0896-monotonic-array) |
 | [1260-shift-2d-grid](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/2022-convert-1d-array-into-2d-array) |
