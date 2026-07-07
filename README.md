@@ -162,6 +162,7 @@ LeetCode questions submission solutions.
 | [1260-shift-2d-grid](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2363-merge-similar-items](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/2363-merge-similar-items) |
+| [2553-separate-the-digits-in-an-array](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [3151-special-array-i](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/3151-special-array-i) |
 ## Sorting
@@ -206,6 +207,7 @@ LeetCode questions submission solutions.
 | [0043-multiply-strings](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0043-multiply-strings) |
 | [1260-shift-2d-grid](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/2022-convert-1d-array-into-2d-array) |
+| [2553-separate-the-digits-in-an-array](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/3178-find-the-child-who-has-the-ball-after-k-seconds) |
 ## Design
 |  |
