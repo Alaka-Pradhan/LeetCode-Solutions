@@ -177,6 +177,7 @@ LeetCode questions submission solutions.
 | ------- |
 | [1260-shift-2d-grid](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/2022-convert-1d-array-into-2d-array) |
+| [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/3178-find-the-child-who-has-the-ball-after-k-seconds) |
 ## Design
 |  |
 | ------- |
@@ -204,4 +205,5 @@ LeetCode questions submission solutions.
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0069-sqrtx) |
+| [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/3178-find-the-child-who-has-the-ball-after-k-seconds) |
 <!---LeetCode Topics End-->
