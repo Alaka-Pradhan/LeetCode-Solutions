@@ -140,6 +140,7 @@ LeetCode questions submission solutions.
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0015-3sum) |
+| [0134-gas-station](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0134-gas-station) |
 | [0169-majority-element](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0817-linked-list-components](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0817-linked-list-components) |
@@ -215,4 +216,8 @@ LeetCode questions submission solutions.
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0836-rectangle-overlap) |
+## Greedy
+|  |
+| ------- |
+| [0134-gas-station](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0134-gas-station) |
 <!---LeetCode Topics End-->
