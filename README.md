@@ -212,6 +212,7 @@ LeetCode questions submission solutions.
 | [0014-longest-common-prefix](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0179-largest-number) |
 | [0551-student-attendance-record-i](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0551-student-attendance-record-i) |
@@ -225,6 +226,7 @@ LeetCode questions submission solutions.
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [1260-shift-2d-grid](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/2553-separate-the-digits-in-an-array) |
@@ -239,6 +241,7 @@ LeetCode questions submission solutions.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0231-power-of-two) |
@@ -269,6 +272,7 @@ LeetCode questions submission solutions.
 | [0048-rotate-image](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0062-unique-paths) |
+| [0067-add-binary](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0189-rotate-array) |
