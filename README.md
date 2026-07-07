@@ -297,5 +297,6 @@ LeetCode questions submission solutions.
 ## Database
 |  |
 | ------- |
+| [0626-exchange-seats](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0626-exchange-seats) |
 | [0627-swap-sex-of-employees](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0627-swap-sex-of-employees) |
 <!---LeetCode Topics End-->
