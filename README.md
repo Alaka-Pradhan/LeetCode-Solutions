@@ -155,6 +155,7 @@ LeetCode questions submission solutions.
 | [0047-permutations-ii](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0134-gas-station](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0134-gas-station) |
+| [0136-single-number](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0817-linked-list-components](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0817-linked-list-components) |
@@ -219,6 +220,7 @@ LeetCode questions submission solutions.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0231-power-of-two) |
 ## Stack
