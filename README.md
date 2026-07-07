@@ -195,6 +195,7 @@ LeetCode questions submission solutions.
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0006-zigzag-conversion) |
+| [0020-valid-parentheses](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0043-multiply-strings) |
 | [0551-student-attendance-record-i](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0551-student-attendance-record-i) |
 ## Matrix
@@ -227,6 +228,7 @@ LeetCode questions submission solutions.
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
