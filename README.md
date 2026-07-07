@@ -12,6 +12,7 @@ LeetCode questions submission solutions.
 | [0104-maximum-depth-of-binary-tree](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0222-count-complete-tree-nodes](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0543-diameter-of-binary-tree](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0814-binary-tree-pruning](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0814-binary-tree-pruning) |
@@ -39,6 +40,7 @@ LeetCode questions submission solutions.
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0099-recover-binary-search-tree) |
+| [0222-count-complete-tree-nodes](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 ## Binary Tree
 |  |
@@ -49,6 +51,7 @@ LeetCode questions submission solutions.
 | [0104-maximum-depth-of-binary-tree](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0222-count-complete-tree-nodes](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0543-diameter-of-binary-tree](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0814-binary-tree-pruning](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0814-binary-tree-pruning) |
@@ -146,4 +149,8 @@ LeetCode questions submission solutions.
 |  |
 | ------- |
 | [0707-design-linked-list](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0707-design-linked-list) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
