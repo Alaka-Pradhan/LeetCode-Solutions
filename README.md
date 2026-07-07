@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0099-recover-binary-search-tree) |
+| [0110-balanced-binary-tree](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0814-binary-tree-pruning](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0814-binary-tree-pruning) |
 | [0965-univalued-binary-tree](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0965-univalued-binary-tree) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0099-recover-binary-search-tree) |
+| [0110-balanced-binary-tree](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0207-course-schedule](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0210-course-schedule-ii) |
 | [0785-is-graph-bipartite](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0785-is-graph-bipartite) |
@@ -29,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0099-recover-binary-search-tree) |
+| [0110-balanced-binary-tree](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0814-binary-tree-pruning](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0814-binary-tree-pruning) |
 | [0965-univalued-binary-tree](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0965-univalued-binary-tree) |
