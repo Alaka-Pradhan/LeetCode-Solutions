@@ -7,6 +7,7 @@ LeetCode questions submission solutions.
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0099-recover-binary-search-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
@@ -18,6 +19,7 @@ LeetCode questions submission solutions.
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0099-recover-binary-search-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0207-course-schedule](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0207-course-schedule) |
@@ -38,6 +40,7 @@ LeetCode questions submission solutions.
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0099-recover-binary-search-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
@@ -48,6 +51,7 @@ LeetCode questions submission solutions.
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0207-course-schedule](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0210-course-schedule-ii) |
