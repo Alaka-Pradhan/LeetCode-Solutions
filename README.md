@@ -152,6 +152,7 @@ LeetCode questions submission solutions.
 | [0018-4sum](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0018-4sum) |
 | [0046-permutations](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0134-gas-station](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0134-gas-station) |
 | [0169-majority-element](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0189-rotate-array) |
@@ -195,6 +196,7 @@ LeetCode questions submission solutions.
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [1260-shift-2d-grid](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/2022-convert-1d-array-into-2d-array) |
 ## Simulation
@@ -238,6 +240,7 @@ LeetCode questions submission solutions.
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
