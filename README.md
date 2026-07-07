@@ -87,6 +87,7 @@ LeetCode questions submission solutions.
 | ------- |
 | [0015-3sum](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0015-3sum) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
+| [3151-special-array-i](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/3151-special-array-i) |
 ## Sorting
 |  |
 | ------- |
