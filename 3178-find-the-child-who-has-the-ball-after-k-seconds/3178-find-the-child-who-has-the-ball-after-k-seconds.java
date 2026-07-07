@@ -1,0 +1,20 @@
+class Solution {
+    public int numberOfChild(int n, int k) {
+
+        int child = 0;
+        int direction = 1;
+
+        while (k > 0) {
+            if (child == n - 1){
+                direction = -1;
+            }
+            else if (child == 0){
+                direction = 1;
+            }
+
+            child += direction;
+            k--;
+        }
+        return child;
+    }
+}
