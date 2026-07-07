@@ -87,6 +87,7 @@ LeetCode questions submission solutions.
 | ------- |
 | [0015-3sum](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0896-monotonic-array](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0896-monotonic-array) |
+| [1260-shift-2d-grid](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [3151-special-array-i](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/3151-special-array-i) |
 ## Sorting
@@ -108,4 +109,12 @@ LeetCode questions submission solutions.
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0006-zigzag-conversion) |
+## Matrix
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
+## Simulation
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
