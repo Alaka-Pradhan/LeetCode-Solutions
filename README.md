@@ -49,5 +49,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0725-split-linked-list-in-parts](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0725-split-linked-list-in-parts) |
+## Hash Table
+|  |
+| ------- |
+| [0142-linked-list-cycle-ii](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0142-linked-list-cycle-ii](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
