@@ -108,6 +108,7 @@ LeetCode questions submission solutions.
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
@@ -140,6 +141,7 @@ LeetCode questions submission solutions.
 | [0125-valid-palindrome](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
@@ -178,6 +180,7 @@ LeetCode questions submission solutions.
 | [0016-3sum-closest](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0047-permutations-ii) |
+| [0148-sort-list](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0179-largest-number) |
 | [2363-merge-similar-items](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/2363-merge-similar-items) |
@@ -248,6 +251,7 @@ LeetCode questions submission solutions.
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0169-majority-element) |
 ## Counting
 |  |
@@ -322,4 +326,8 @@ LeetCode questions submission solutions.
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
