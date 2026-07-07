@@ -99,4 +99,8 @@ LeetCode questions submission solutions.
 | [0547-number-of-provinces](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0785-is-graph-bipartite) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
+## String
+|  |
+| ------- |
+| [0006-zigzag-conversion](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0006-zigzag-conversion) |
 <!---LeetCode Topics End-->
