@@ -46,4 +46,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0210-course-schedule-ii) |
+## Linked List
+|  |
+| ------- |
+| [0725-split-linked-list-in-parts](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0725-split-linked-list-in-parts) |
 <!---LeetCode Topics End-->
