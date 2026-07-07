@@ -178,6 +178,7 @@ LeetCode questions submission solutions.
 | [0050-powx-n](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 ## Union-Find
 |  |
@@ -214,6 +215,7 @@ LeetCode questions submission solutions.
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0222-count-complete-tree-nodes) |
+| [0231-power-of-two](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0231-power-of-two) |
 ## Stack
 |  |
 | ------- |
@@ -240,6 +242,7 @@ LeetCode questions submission solutions.
 | [0069-sqrtx](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0836-rectangle-overlap](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0836-rectangle-overlap) |
 | [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/3178-find-the-child-who-has-the-ball-after-k-seconds) |
 ## Geometry
