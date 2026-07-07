@@ -70,6 +70,7 @@ LeetCode questions submission solutions.
 | [0142-linked-list-cycle-ii](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0203-remove-linked-list-elements](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
+| [0707-design-linked-list](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0707-design-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0725-split-linked-list-in-parts) |
 ## Hash Table
 |  |
@@ -120,4 +121,8 @@ LeetCode questions submission solutions.
 | ------- |
 | [1260-shift-2d-grid](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/2022-convert-1d-array-into-2d-array) |
+## Design
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0707-design-linked-list) |
 <!---LeetCode Topics End-->
