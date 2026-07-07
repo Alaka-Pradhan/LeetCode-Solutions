@@ -46,6 +46,7 @@ LeetCode questions submission solutions.
 ## Binary Search Tree
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0099-recover-binary-search-tree](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0099-recover-binary-search-tree) |
@@ -160,6 +161,7 @@ LeetCode questions submission solutions.
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0015-3sum) |
@@ -280,6 +282,7 @@ LeetCode questions submission solutions.
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0148-sort-list](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0169-majority-element) |
 ## Counting
