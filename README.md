@@ -98,6 +98,7 @@ LeetCode questions submission solutions.
 | [0707-design-linked-list](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0707-design-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0725-split-linked-list-in-parts) |
 | [0876-middle-of-the-linked-list](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Hash Table
 |  |
 | ------- |
@@ -109,6 +110,7 @@ LeetCode questions submission solutions.
 | [0015-3sum](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0142-linked-list-cycle-ii](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 ## Array
 |  |
