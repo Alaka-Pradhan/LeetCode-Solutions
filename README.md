@@ -149,6 +149,7 @@ LeetCode questions submission solutions.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0018-4sum) |
@@ -197,6 +198,7 @@ LeetCode questions submission solutions.
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0006-zigzag-conversion) |
+| [0014-longest-common-prefix](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0043-multiply-strings) |
 | [0125-valid-palindrome](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
@@ -311,4 +313,8 @@ LeetCode questions submission solutions.
 | [0620-not-boring-movies](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0620-not-boring-movies) |
 | [0626-exchange-seats](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0626-exchange-seats) |
 | [0627-swap-sex-of-employees](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0627-swap-sex-of-employees) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
