@@ -12,6 +12,7 @@ LeetCode questions submission solutions.
 | [0101-symmetric-tree](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
@@ -52,6 +53,7 @@ LeetCode questions submission solutions.
 | [0069-sqrtx](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0099-recover-binary-search-tree](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0099-recover-binary-search-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 ## Binary Tree
@@ -63,6 +65,7 @@ LeetCode questions submission solutions.
 | [0101-symmetric-tree](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
@@ -185,6 +188,7 @@ LeetCode questions submission solutions.
 | [0066-plus-one](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0136-single-number) |
@@ -299,6 +303,7 @@ LeetCode questions submission solutions.
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0169-majority-element) |
 ## Counting
