@@ -147,6 +147,7 @@ LeetCode questions submission solutions.
 | [0169-majority-element](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0817-linked-list-components](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0817-linked-list-components) |
 | [0997-find-the-town-judge](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0997-find-the-town-judge) |
+| [1331-rank-transform-of-an-array](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [2363-merge-similar-items](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/2363-merge-similar-items) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 ## Two Pointers
@@ -204,6 +205,7 @@ LeetCode questions submission solutions.
 | [0896-monotonic-array](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0896-monotonic-array) |
 | [0997-find-the-town-judge](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0997-find-the-town-judge) |
 | [1260-shift-2d-grid](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
+| [1331-rank-transform-of-an-array](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2363-merge-similar-items](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/2363-merge-similar-items) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/2553-separate-the-digits-in-an-array) |
@@ -221,6 +223,7 @@ LeetCode questions submission solutions.
 | [0148-sort-list](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0179-largest-number) |
+| [1331-rank-transform-of-an-array](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [2363-merge-similar-items](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/2363-merge-similar-items) |
 ## Recursion
 |  |
