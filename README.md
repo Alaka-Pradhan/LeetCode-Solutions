@@ -337,6 +337,7 @@ LeetCode questions submission solutions.
 | [0509-fibonacci-number](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0836-rectangle-overlap) |
 | [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/3178-find-the-child-who-has-the-ball-after-k-seconds) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Geometry
 |  |
 | ------- |
@@ -416,4 +417,8 @@ LeetCode questions submission solutions.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Alaka-Pradhan/LeetCode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
